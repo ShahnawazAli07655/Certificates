@@ -21,8 +21,6 @@ Here are the certificates I’ve uploaded so far (click to view/download):
 
 - [Python4Physics](certificates/ShahNawazAli.pdf)  
 - [REYES Certificate](certificates/ShahNawazAli(2).pdf)  
-- [Computational Physics Workshop]
-- 
 
 *(More certificates will be added as I continue my learning journey.)*  
 
