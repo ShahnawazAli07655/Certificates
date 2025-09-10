@@ -15,20 +15,21 @@ This repository is a collection of my coding and programming certificates earned
 - To highlight my skill development in **Python, C, Scilab**, and their applications in **computational physics**.  
 - To maintain a record of academic and professional learning milestones.  
 
-## 📜 Certificates Included  
-- Python4Physics
-- REYES
-- Computational Physics Workshops  
-- AI (Python)
-- Astronomy workshop 
-- Specialized training programs in **numerical methods, data analysis, and simulation**  
+## 📜 Certificates  
+
+Here are the certificates I’ve uploaded so far (click to view/download):  
+
+- [Python4Physics](certificates/ShahNawazAli.pdf)  
+- [REYES Certificate](certificates/ShahNawazAli(2).pdf)  
+- [Computational Physics Workshop]
+- 
 
 *(More certificates will be added as I continue my learning journey.)*  
 
 ## 🔬 Areas of Interest  
 - Computational Physics (ODEs, PDEs, Schrödinger Equation modeling)  
 - Scientific Programming (Python, Scilab, C)  
-- Numerical Methods (Finite Difference, Finite Element, Bisection method, Newton–Raphson method, Secant method,Trapezoidal Rule, Simpson’s Rule, RK4 method )  
+- Numerical Methods (Finite Difference, Finite Element, Bisection Method, Newton–Raphson Method, Secant Method, Trapezoidal Rule, Simpson’s Rule, RK4 Method)  
 - Data Visualization & Analysis  
 
 ## 🚀 Future Plans  
