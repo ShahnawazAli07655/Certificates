@@ -22,6 +22,8 @@ Here are the certificates I’ve uploaded so far (click to view/download):
 - [Python4Physics](/ShahNawazAli.pdf)  
 - [Brain Computer Interface](/BCI_internship.pdf)
 - [Artificial Intelligence](/AI_internship.pdf)
+- [Faculty Development Program in Generative AI ](/BCI_internship.pdf)
+- [DST Inspire Fellowship (selected for consideration, but not availed)](/BCI_internship.pdf)
 
 *(More certificates will be added as I continue my learning journey.)*  
 
