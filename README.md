@@ -23,7 +23,7 @@ Here are the certificates I’ve uploaded so far (click to view/download):
 - [Brain Computer Interface](/BCI_internship.pdf)
 - [Artificial Intelligence](/AI_internship.pdf)
 - [Faculty Development Program in Generative AI ](/Generative_AI_FDP.pdf)
-- [DST Inspire Fellowship (selected for consideration, but not availed)](/INSPIREFellowshipAwardOfferLetter (1).pdf)
+- [DST Inspire Fellowship (selected for consideration, but not availed)](/INSPIREFellowshipAwardOfferLetter(1).pdf)
 
 *(More certificates will be added as I continue my learning journey.)*  
 
