@@ -24,6 +24,7 @@ Here are the certificates I’ve uploaded so far (click to view/download):
 - [Artificial Intelligence](/AI_internship.pdf)
 - [Faculty Development Program in Generative AI ](/Generative_AI_FDP.pdf)
 - [DST Inspire Fellowship (selected for consideration, but not availed)](/INSPIREFellowshipAwardOfferLetter(1).pdf)
+- [Environmental and Health Applications of Pulsed Power and Cold Plasmas](/IIT_Jodhpur_workshop.pdf)
 
 *(More certificates will be added as I continue my learning journey.)*  
 
@@ -34,7 +35,7 @@ Here are the certificates I’ve uploaded so far (click to view/download):
 - Data Visualization & Analysis  
 
 ## 🚀 Future Plans  
-I will continue updating this repository as I complete new certifications, particularly in areas bridging **physics, mathematics, and computational tools**.  
+I will continue updating this repository as I complete new certifications, particularly in areas bridging **physics, mathematics, a](nd computational tools**.  
 
 ---
 
